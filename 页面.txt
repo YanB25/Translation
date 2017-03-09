@@ -4,7 +4,7 @@ https://dev.cognitive.microsoft.com/docs/services/56e73033cf5ff80c2008c679/opera
 language understanding: // lxr
 https://westus.dev.cognitive.microsoft.com/docs/services/5890b47c39e2bb17b84a55ff/operations/5890b47c39e2bb052c5b9c2f
 
-Linguistics API: // lxr
+	Linguistics API: //lxr
 https://westus.dev.cognitive.microsoft.com/docs/services/56ea598f778daf01942505ff/operations/56ea5a1cca73071fd4b102bb
 
 
@@ -18,10 +18,10 @@ WebLM: //zzh
 https://westus.dev.cognitive.microsoft.com/docs/services/55de9ca4e597ed1fd4e2f104/operations/55de9ca4e597ed19b0de8a51
 
 
-	Content Moderator - Moderate:
+Content Moderator - Moderate: // yb
 https://westus.dev.cognitive.microsoft.com/docs/services/57cf753a3f9b070c105bd2c1/operations/57cf753a3f9b070868a1f66c
 
-	Content Moderator - List Management:
+	Content Moderator - List Management: //zzh
 https://westus.dev.cognitive.microsoft.com/docs/services/57cf755e3f9b070c105bd2c2/operations/57cf755e3f9b070868a1f675
 
 Bing Text To Speech API: //lty
